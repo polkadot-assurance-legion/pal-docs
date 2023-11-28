@@ -1,8 +1,8 @@
 # PAL Applications Criteria
 
-All applications under PAL are processed based on two sets of criteria: [eligibility criteria](#eligibility-criteria) and [criteria for prioritisation]{#cri}.
+All applications under PAL are processed based on two sets of criteria: [eligibility criteria](#eligibility-criteria) and [criteria for prioritisation](#criteria-for-prioritisation).
 
-## Eligibility Criteria {#eligibility}
+## Eligibility Criteria
 
 In order to be eligible for funding under PAL, every application must cover the complete list of eligibility criteria:
 
@@ -13,7 +13,7 @@ In order to be eligible for funding under PAL, every application must cover the 
 5. The Polkadot Audit Fund will cover a maximum of 80% of the auditing costs up to a limit of 18,000 DOT. The applicant parachain must be ready to cover the remaining costs;
 6. The applicant parachain will receive the funding from the bounty mechanism in DOT. The applicant may need to handle the payment to the auditor directly in stablecoins or fiat.
 
-## Criteria for Prioritisation {#prioritization}
+## Criteria for Prioritisation
 
 If there are more applications under PAL in a given round than the available funding, the eligible applications will be subjected to the following criteria to determine priority:
 
