@@ -1,6 +1,6 @@
 # How to Apply
 
-Application
+Follow the steps below to apply for a partial funding of your audit costs under PAL:
 
 1. Determine the scope of your audit
      - Which functionalities? 
@@ -12,14 +12,18 @@ Application
         ```
         
        Exclude any tests and mock from the scope
-        
-2. Check if you are eligible for an audit under PAL
-3. Request an offer from a PAL-approved auditor
-4. Apply for funding with PAL
+2. Make sure you cover the [PAL eligibility criteria](/applications_criteria.md#eligibility-criteria)
+3. Request an offer from a [PAL-approved auditor](/auditors.md)
+     - You can reach out using the email provided by the auditor
+     - Don't forget to mention that you are applying under PAL
+4. Fill out the PAL Application Form to apply for funding
 5. Once approved, initiate your audit
-     - You need to advance the full payment to the auditor
+     - Handle all contractual obligations with the auditor
+     - Handle the payment to the auditor in the requested currency
      - Keep in touch with the auditor to answer any questions 
      - Respond to audit findings and prepare fixes
-6. Apply for partial reimbursement under PAL
+6. Request the partial reimbursement under PAL
      - 80% of the total audit costs, up to 18,000 DOT
      - Paid out in DOT based on the 2-weekly average price
+     - To be requested under the appropriate child bounty, the PAL curators will guide you
+     - The request can be made at any time once the application in step 4 has been approved
