@@ -14,7 +14,7 @@ Below you fill find two lists of approved auditors: for [Traditional audits](#tr
 | Zellic         | Substrate, ink! | kaushik@zellic.io                 |
 
 ## Crowdsourced audits
-| Name       | Works with      | Contact           |
-| ---------- | --------------- | ----------------- |
-| Code4rena  | Substrate, ink! | tre@code4rena.com |
-| Codehawks  | Substrate, ink! | mark@cyfrin.io    |
+| Name       | Works with      | Contact               |
+| ---------- | --------------- | --------------------- |
+| Code4rena  | Substrate, ink! | trebien@code4rena.com |
+| Codehawks  | Substrate, ink! | mark@cyfrin.io        |

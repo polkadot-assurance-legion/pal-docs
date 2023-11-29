@@ -27,6 +27,6 @@ Follow the steps below to apply for a partial funding of your audit costs under 
      - To be requested under the appropriate child bounty, the PAL curators will guide you
      - The request can be made at any time after the application in step 4 has been approved
 7. Keep PAL updated
-     - Let us know how your audit is going
+     - Let us know how your audit is going using the dedicated channel on the [PAL Discord](https://discord.gg/6nvvAh7yh8)
      - Once the audit is complete, let us know
      - Share the final audit report with PAL with an indication if the report is ready to be made public
