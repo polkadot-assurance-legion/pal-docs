@@ -5,6 +5,7 @@ This repo contains all relevant documents which define the functioning of the Po
 * [List of auditors](/auditors.md)
 * [How to apply for an audit](/applications_howto.md)
 * [Criteria for audit applications](/applications_criteria.md)
+* [Apply for audit funding with PAL](https://docs.google.com/forms/d/e/1FAIpQLSfhF6TNyDVHm7LpcmXl1ydEiRXZ378l_4cNnkEdVeLz8Kt4ag/viewform)
 
 ## Other PAL documents
 * [Framework for covering internal PAL expenses](/curators_expenses.md)

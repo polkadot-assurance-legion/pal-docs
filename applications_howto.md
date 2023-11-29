@@ -15,7 +15,7 @@ Follow the steps below to apply for a partial funding of your audit costs under 
 3. Request an offer from a [PAL-approved auditor](/auditors.md)
      - You can reach out using the email provided by the auditor
      - Don't forget to mention that you are applying under PAL
-4. Fill out the PAL Application Form to apply for funding
+4. Fill out the [PAL Application Form](https://docs.google.com/forms/d/e/1FAIpQLSfhF6TNyDVHm7LpcmXl1ydEiRXZ378l_4cNnkEdVeLz8Kt4ag/viewform) to apply for funding
 5. Once approved, initiate your audit
      - Handle the contract and all resulting obligations with the auditor
      - Handle the payment to the auditor in the requested currency
