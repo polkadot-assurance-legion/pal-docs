@@ -4,13 +4,12 @@ Follow the steps below to apply for a partial funding of your audit costs under 
 
 1. Determine the scope of your audit
      - Which functionalities? 
-       Code refs to pallets / smart contracts / other
+       Prepare exact code refs to all pallets / smart contracts / other
         
      - How many lines of code (LOC)?   
         ```jsx
         tokei dir/ -e tests -f -C
         ```
-        
        Exclude any tests and mock from the scope
 2. Make sure you cover the [PAL eligibility criteria](/applications_criteria.md#eligibility-criteria)
 3. Request an offer from a [PAL-approved auditor](/auditors.md)
@@ -21,7 +20,7 @@ Follow the steps below to apply for a partial funding of your audit costs under 
      - Handle the contract and all resulting obligations with the auditor
      - Handle the payment to the auditor in the requested currency
      - Keep in touch with the auditor to answer any questions 
-     - Respond to audit findings and prepare fixes
+     - Respond to the audit findings and prepare fixes
 6. Request the partial reimbursement under PAL
      - 80% of the total audit costs, up to 18,000 DOT
      - Paid out in DOT based on the 2-weekly average price
@@ -30,4 +29,4 @@ Follow the steps below to apply for a partial funding of your audit costs under 
 7. Keep PAL updated
      - Let us know how your audit is going
      - Once the audit is complete, let us know
-     - Share the final audit report with PAL (once the vulnerabilities are fixed and the report can be made public)
+     - Share the final audit report with PAL with an indication if the report is ready to be made public
