@@ -18,7 +18,7 @@ Follow the steps below to apply for a partial funding of your audit costs under 
      - Don't forget to mention that you are applying under PAL
 4. Fill out the PAL Application Form to apply for funding
 5. Once approved, initiate your audit
-     - Handle all contractual obligations with the auditor
+     - Handle the contract and all resulting obligations with the auditor
      - Handle the payment to the auditor in the requested currency
      - Keep in touch with the auditor to answer any questions 
      - Respond to audit findings and prepare fixes
@@ -26,4 +26,8 @@ Follow the steps below to apply for a partial funding of your audit costs under 
      - 80% of the total audit costs, up to 18,000 DOT
      - Paid out in DOT based on the 2-weekly average price
      - To be requested under the appropriate child bounty, the PAL curators will guide you
-     - The request can be made at any time once the application in step 4 has been approved
+     - The request can be made at any time after the application in step 4 has been approved
+7. Keep PAL updated
+     - Let us know how your audit is going
+     - Once the audit is complete, let us know
+     - Share the final audit report with PAL (once the vulnerabilities are fixed and the report can be made public)
