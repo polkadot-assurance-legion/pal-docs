@@ -1,4 +1,4 @@
-# pal-docs
+# PAL Docs
 This repo contains all relevant documents which define the functioning of the Polkadot Assurance Legion.
 
 ## Apply for an audit
