@@ -11,4 +11,4 @@ This repo contains all relevant documents which define the functioning of the [P
 * [Framework for covering internal PAL expenses](/curators_expenses.md)
 
 ## About PAL
-The Polkadot Assurance Legion (PAL) is an initiative of the Polkadot community which aims to increase the auditing capacity of the ecosystem. It has received funds from the Polkadot treasury (a bounty) which will be used to help selected consumers of blockspace undergo audits, and to onboard more auditors to Rust / Polkadot SDK. The ultimate goal is to make Polkadot a more secure and accessible ecosystem to build in.
+The [Polkadot Assurance Legion](https://polkadotassurance.com/) (PAL) is an initiative of the Polkadot community which aims to increase the auditing capacity of the ecosystem. It has received funds from the Polkadot treasury (through [a bounty](https://polkadot.polkassembly.io/referenda/47)) which will be used to help selected consumers of blockspace undergo audits, and to onboard more auditors to Rust / Polkadot SDK. The ultimate goal is to make Polkadot a more secure and accessible ecosystem to build in.
