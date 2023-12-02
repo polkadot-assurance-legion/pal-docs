@@ -11,7 +11,7 @@ In order to be eligible for funding under PAL, every application must cover the 
 3. The code must be open source;
 4. The code must be production-ready and under development-freeze - no new commits are allowed unless agreed with the auditors (fixes of identified bugs);
 5. The Polkadot Audit Fund will cover a maximum of 80% of the auditing costs up to a limit of 18,000 DOT. The applicant parachain must be ready to cover the remaining costs;
-6. The applicant parachain will receive the funding from the bounty mechanism in DOT. The applicant may need to handle the payment to the auditor directly in stablecoins or fiat.
+6. The applicant parachain will receive the funding from the bounty mechanism in DOT. The applicant may need to handle the payment to the auditor directly in whatever form is required by the auditor
 
 ## Criteria for Prioritisation
 
