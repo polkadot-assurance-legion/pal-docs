@@ -18,6 +18,6 @@ In order to be eligible for funding under PAL, every application must cover the 
 If there are more applications under PAL in a given round than the available funding, the eligible applications will be subjected to the following criteria to determine priority:
 
 1. Count of active wallets;
-2. Count of open bi-directional HRMP/XCM channels;
+2. Count of open and active bi-directional HRMP/XCM channels;
 3. TVL on that chain or some other quantifiable measure of the interest at stake;
 4. Number of completed audits in the past.
