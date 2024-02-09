@@ -7,6 +7,7 @@ Below you fill find two lists of approved auditors: for [Traditional audits](#tr
 | Beosin               | ink!            | service@beosin.com                     |
 | Chaintroppers        | Substrate       | info@chaintroopers.com                 |
 | CoinFabrik           | Substrate, ink! | valeria.caracciolo@coinfabrik.com      |
+| Dedaub               | Substrate, ink! | contact@dedaub.com                     |
 | OAK Security         | Substrate, ink! | info@oaksecurity.io                    |
 | OpenZeppelin         | Substrate, ink! | contact@openzeppelin.com               |
 | Red4Sec              | Substrate, ink! | info@red4sec.com                       |
