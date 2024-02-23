@@ -4,7 +4,7 @@ Below you fill find two lists of approved auditors: for [Traditional audits](#tr
 ## Traditional audits
 | Name                 | Works with      | Contact |
 | -------------------- | --------------- | -------------------------------------- |
-| Beosin               | ink!            | service@beosin.com                     |
+| Beosin               | Substrate, ink! | service@beosin.com                     |
 | Chaintroppers        | Substrate       | info@chaintroopers.com                 |
 | CoinFabrik           | Substrate, ink! | valeria.caracciolo@coinfabrik.com      |
 | Dedaub               | Substrate, ink! | contact@dedaub.com                     |
