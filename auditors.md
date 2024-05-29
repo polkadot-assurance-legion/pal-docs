@@ -11,7 +11,8 @@ Below you fill find two lists of approved auditors: for [Traditional audits](#tr
 | OAK Security         | Substrate, ink! | info@oaksecurity.io                    |
 | OpenZeppelin         | Substrate, ink! | contact@openzeppelin.com               |
 | Red4Sec              | Substrate, ink! | info@red4sec.com                       |
-| Runtime Verification | Substrate, ink! | patrick.mackay@runtimeverification.com |
+| Runtime Verification | Substrate, ink! | contact@runtimeverification.com        |
+| Spearbit             | Substrate, ink! | henry@spearbit.com                     |
 | SRLabs               | Substrate, ink! | hello@srlabs.de                        |
 | Trail of Bits        | Substrate, ink! | sales@trailofbits.com                  |
 | Zellic               | Substrate, ink! | kaushik@zellic.io                      |
@@ -20,4 +21,5 @@ Below you fill find two lists of approved auditors: for [Traditional audits](#tr
 | Name       | Works with      | Contact               |
 | ---------- | --------------- | --------------------- |
 | Code4rena  | Substrate, ink! | trebien@code4rena.com |
+| Cantina    | Substrate, ink! | henry@spearbit.com    |
 | Codehawks  | Substrate, ink! | mark@cyfrin.io        |
