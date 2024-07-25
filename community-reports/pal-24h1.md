@@ -23,3 +23,18 @@ For H2 2024 and beyond, PAL is planning to expand its scope to address the follo
 PAL will submit a new OpenGov referendum in the upcoming weeks to effectuate this expansion in its scope.
 
 ## Audits Overview
+| Audit                | Co-funded  | LOC    | High | Med  | Low  | Report |
+|----------------------|------------|--------|------|------| ---- | ------ |
+| phala-c4-2401        | 9,379 DOT  | 2,391  | 0    | 4    | 7    | report |
+| acala-c4-2401        | 5,876 DOT  | 1,135  | 3    | 4    | 7    | report |
+| t3rn-srl-2401        | 18,000 DOT | 74,368 | 5    | 3    | 1    | report |
+| hydradx-c4-2401      | 15,335 DOT | 5,980  | 1    | 10   | 18   | report |
+| bifrost-oak-2401     | 4,738 DOT  | 3,569  | 1    | 0    | 9    | report |
+| astar-srl-2401       | 6,694 DOT  | 5,427  | 1    | 2    | 1    | report |
+| astar-zellic-2401    | 988 DOT    | 251    | 0    | 0    | 1    | report |
+| invarch-srl-2402     | 15,726 DOT | 5,442  | N/A* | N/A* | N/A* | N/A*   |
+| moonbeam-srl-2401    | 18,000 DOT | N/A*   | N/A* | N/A* | N/A* | N/A*   |
+| peaq-srl-2402        | 18,000 DOT | 54,391 | N/A* | N/A* | N/A* | N/A*   |
+| astar-srl-2403       | 1,057 DOT  | 130    | 0    | 0    | 1    | report |
+| hydradx-srl-2405     | 1,620 DOT  | 1,012  | 0    | 1    | 0    | report |
+| hyperbridge-srl-2405 | 18,000 DOT | 14,300 | 7    | 4    | 4    | report |
