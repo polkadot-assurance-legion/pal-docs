@@ -38,7 +38,8 @@ PAL will submit a new OpenGov referendum in the upcoming weeks to effectuate thi
 | 981  | astar-srl-2403       | 1,057 DOT  | 130    | 0    | 0    | 1    | [report](/audits/24h1/astar-srl-2403.pdf)       |
 | 1310 | hydradx-srl-2405     | 1,620 DOT  | 1,012  | 0    | 1    | 0    | [report](/audits/24h1/hydradx-srl-2405.pdf)     |
 | 1311 | hyperbridge-srl-2405 | 18,000 DOT | 14,300 | 7    | 4    | 4    | [report](/audits/24h1/hyperbridge-srl-2405.pdf) |
-* These audits are still ongoing, this report will be updated once the audits have been finalized.
+
+Audits marked with `*` are still ongoing, once finalized they will be included in this report.  
 
 The PAL curators have received 2,742 DOT in curator fees in relation to these audits.
 
