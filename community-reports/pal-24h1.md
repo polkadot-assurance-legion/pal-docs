@@ -1,5 +1,5 @@
-# PAL Community Report for 2024 H1
-Date: 31.07.2024
+# PAL Community Report 2024 H1
+Date: 25.07.2024
 
 This Community report summarizes the activity of the Polkadot Assurance Legion (PAL) during the first six months of 2024. PAL is a community-driven initiative that aims to make Polkadot a safer and more attractive place for both builders and users by allocating funds from the Polkadot treasury (bounty #22) to advance security in Rust / Polkadot SDK.
 
@@ -32,12 +32,13 @@ PAL will submit a new OpenGov referendum in the upcoming weeks to effectuate thi
 | 594  | bifrost-oak-2401     | 4,738 DOT  | 3,569  | 1    | 0    | 9    | [report](/audits/24h1/bifrost-oak-2401.pdf)     |
 | 595  | astar-srl-2401       | 6,694 DOT  | 5,427  | 2    | 1    | 1    | [report](/audits/24h1/astar-srl-2401.pdf)       |
 | 634  | astar-zellic-2401    | 988 DOT    | 251    | 0    | 0    | 1    | [report](/audits/24h1/astar-zellic-2401.pdf)    |
-| 709  | invarch-srl-2402     | 15,726 DOT | 5,442  | N/A* | N/A* | N/A* | N/A*                                            |
-| 710  | moonbeam-srl-2401    | 18,000 DOT | N/A*   | N/A* | N/A* | N/A* | N/A*                                            |
-| 727  | peaq-srl-2402        | 18,000 DOT | 54,391 | N/A* | N/A* | N/A* | N/A*                                            |
+| 709  | invarch-srl-2402*    | 15,726 DOT | 5,442  | N/A* | N/A* | N/A* | N/A*                                            |
+| 710  | moonbeam-srl-2401*   | 18,000 DOT | N/A*   | N/A* | N/A* | N/A* | N/A*                                            |
+| 727  | peaq-srl-2402*       | 18,000 DOT | 54,391 | N/A* | N/A* | N/A* | N/A*                                            |
 | 981  | astar-srl-2403       | 1,057 DOT  | 130    | 0    | 0    | 1    | [report](/audits/24h1/astar-srl-2403.pdf)       |
 | 1310 | hydradx-srl-2405     | 1,620 DOT  | 1,012  | 0    | 1    | 0    | [report](/audits/24h1/hydradx-srl-2405.pdf)     |
 | 1311 | hyperbridge-srl-2405 | 18,000 DOT | 14,300 | 7    | 4    | 4    | [report](/audits/24h1/hyperbridge-srl-2405.pdf) |
+* These audits are still ongoing, this report will be updated once the audits have been finalized.
 
 The PAL curators have received 2,742 DOT in curator fees in relation to these audits.
 
