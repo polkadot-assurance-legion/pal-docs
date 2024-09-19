@@ -11,7 +11,7 @@ The focus of PAL in 2024 H1 was exclusively on Rust audits in the Polkadot ecosy
 
 The audits were carried out by a curated pool of auditors. To facilitate this, PAL onboarded [15 auditing organizations](../auditors.md), which are among the leaders in the Web3 security space. This includes both traditional auditors and 3 platforms for crowdsourced audits.
 
-In 2024 H1, PAL has paid out 157,155 DOT to co-fund [14 Rust audits](../audits/24h1/) of 11 parachain teams, helping secure a total of 175,000+ Lines of Code (LOC).
+In 2024 H1, PAL has paid out 157,155 DOT to co-fund [14 Rust audits](https://github.com/polkadot-assurance-legion/pal-docs/tree/main/audits/24h1) of 11 parachain teams, helping secure a total of 175,000+ Lines of Code (LOC).
 
 The audits that were carried out helped identify at least **18 High-risk vulnerabilities**, which, in many cases, could have led to the loss of user funds. A further **28 Medium-risk** and **49 Low-risk vulnerabilities** were reported. For more information, see the breakdown at the end of this report, which also includes references to the individual audit reports.
 
