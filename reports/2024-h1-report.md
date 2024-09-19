@@ -25,21 +25,21 @@ For H2 2024 and beyond, PAL is planning to expand its scope to address the follo
 PAL will submit a new OpenGov referendum in the upcoming weeks to effectuate this expansion in its scope.
 
 ## Overview
-| ID   | Audit                | Co-funded  | LOC    | High | Med  | Low  | Report                                          |
-|------|----------------------|------------|--------|------|------| ---- | ----------------------------------------------- |
-| 560  | phala-c4-2401        | 9,379 DOT  | 2,391  | 0    | 4    | 7    | [report](/audits/24h1/phala-c4-2401.pdf)        |
-| 561  | acala-c4-2401        | 5,876 DOT  | 1,135  | 3    | 4    | 7    | [report](/audits/24h1/acala-c4-2401.pdf)        |
-| 581  | t3rn-srl-2401        | 18,000 DOT | 74,368 | 5    | 3    | 1    | [report](/audits/24h1/t3rn-srl-2401.pdf)        |
-| 583  | hydradx-c4-2401      | 15,335 DOT | 5,980  | 1    | 10   | 18   | [report](/audits/24h1/hydradx-c4-2401.pdf)      |
-| 594  | bifrost-oak-2401     | 4,738 DOT  | 3,569  | 1    | 0    | 9    | [report](/audits/24h1/bifrost-oak-2401.pdf)     |
-| 595  | astar-srl-2401       | 6,694 DOT  | 5,427  | 2    | 1    | 1    | [report](/audits/24h1/astar-srl-2401.pdf)       |
-| 634  | astar-zellic-2401    | 988 DOT    | 251    | 0    | 0    | 1    | [report](/audits/24h1/astar-zellic-2401.pdf)    |
-| 709  | invarch-srl-2402*    | 15,726 DOT | 5,442  | N/A* | N/A* | N/A* | N/A*                                            |
-| 710  | moonbeam-srl-2401*   | 18,000 DOT | N/A*   | N/A* | N/A* | N/A* | N/A*                                            |
-| 727  | peaq-srl-2402*       | 18,000 DOT | 54,391 | N/A* | N/A* | N/A* | N/A*                                            |
-| 981  | astar-srl-2403       | 1,057 DOT  | 130    | 0    | 0    | 1    | [report](/audits/24h1/astar-srl-2403.pdf)       |
-| 1310 | hydradx-srl-2405     | 1,620 DOT  | 1,012  | 0    | 1    | 0    | [report](/audits/24h1/hydradx-srl-2405.pdf)     |
-| 1311 | hyperbridge-srl-2405 | 18,000 DOT | 14,300 | 7    | 4    | 4    | [report](/audits/24h1/hyperbridge-srl-2405.pdf) |
+| ID   | Audit                | Co-funded  | LOC    | High | Med  | Low  | Report                                            |
+|------|----------------------|------------|--------|------|------| ---- | --------------------------------------------------|
+| 560  | phala-c4-2401        | 9,379 DOT  | 2,391  | 0    | 4    | 7    | [report](../audits/24h1/phala-c4-2401.pdf)        |
+| 561  | acala-c4-2401        | 5,876 DOT  | 1,135  | 3    | 4    | 7    | [report](../audits/24h1/acala-c4-2401.pdf)        |
+| 581  | t3rn-srl-2401        | 18,000 DOT | 74,368 | 5    | 3    | 1    | [report](../audits/24h1/t3rn-srl-2401.pdf)        |
+| 583  | hydradx-c4-2401      | 15,335 DOT | 5,980  | 1    | 10   | 18   | [report](../audits/24h1/hydradx-c4-2401.pdf)      |
+| 594  | bifrost-oak-2401     | 4,738 DOT  | 3,569  | 1    | 0    | 9    | [report](../audits/24h1/bifrost-oak-2401.pdf)     |
+| 595  | astar-srl-2401       | 6,694 DOT  | 5,427  | 2    | 1    | 1    | [report](../audits/24h1/astar-srl-2401.pdf)       |
+| 634  | astar-zellic-2401    | 988 DOT    | 251    | 0    | 0    | 1    | [report](../audits/24h1/astar-zellic-2401.pdf)    |
+| 709  | invarch-srl-2402*    | 15,726 DOT | 5,442  | N/A* | N/A* | N/A* | N/A*                                              |
+| 710  | moonbeam-srl-2401*   | 18,000 DOT | N/A*   | N/A* | N/A* | N/A* | N/A*                                              |
+| 727  | peaq-srl-2402*       | 18,000 DOT | 54,391 | N/A* | N/A* | N/A* | N/A*                                              |
+| 981  | astar-srl-2403       | 1,057 DOT  | 130    | 0    | 0    | 1    | [report](../audits/24h1/astar-srl-2403.pdf)       |
+| 1310 | hydradx-srl-2405     | 1,620 DOT  | 1,012  | 0    | 1    | 0    | [report](../audits/24h1/hydradx-srl-2405.pdf)     |
+| 1311 | hyperbridge-srl-2405 | 18,000 DOT | 14,300 | 7    | 4    | 4    | [report](../audits/24h1/hyperbridge-srl-2405.pdf) |
 
 Audits marked with `*` are still ongoing, once finalized they will be included in this report.  
 
