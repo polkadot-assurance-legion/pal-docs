@@ -31,7 +31,7 @@ There's no specified minimum project size, but projects should be substantial en
 The application process involves determining your audit scope, reviewing eligibility criteria, requesting an offer from a PAL-approved auditor, and submitting an application form. Details can be found in the Application Process section.
 
 ### How long does the application review process take?
-The review time can vary depending on the complexity of the project and the current workload of the PAL curators. Typically, you can expect an initial response within 2-4 weeks.
+The review time can vary depending on the complexity of the project and the current workload of the PAL curators. Typically, you can expect an initial response within 1-2 weeks.
 
 ### Can I apply for funding multiple times?
 Yes, projects can apply for funding multiple times, but there are limits on how much funding can be received within a 6-month period.
