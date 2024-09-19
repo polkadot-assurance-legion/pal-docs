@@ -3,10 +3,11 @@ Date: 26.07.2024
 
 This Community report summarizes the activity of the Polkadot Assurance Legion (PAL) during the first six months of 2024. PAL is a community-driven initiative that aims to make Polkadot a safer and more attractive place for both builders and users by allocating funds from the Polkadot treasury (bounty #22) to advance security in Rust / Polkadot SDK.
 
-## Summary
-![PAL Community Report 2024 H1](./pal-24h1.jpeg)
+![PAL Community Report 2024 H1](../images/pal-24h1.jpeg)
 
-The focus of PAL in 2024 H1 was exclusively on Rust audits in the Polkadot ecosystem. Any parachain team covering the [eligibility criteria](https://github.com/polkadot-assurance-legion/pal-docs/blob/main/applications_criteria.md) was welcome to apply for partial funding of their audits: Covering up to 80% of the applicants' costs, with a hard cap of 18,000 DOT.
+## Summary
+
+The focus of PAL in 2024 H1 was exclusively on Rust audits in the Polkadot ecosystem. Any parachain team covering the [eligibility criteria](https://github.com/polkadot-assurance-legion/pal-docs/blob/1c4e5abc490deb0b187ed0618a4152fee8a35923/applications_howto.md) was welcome to apply for partial funding of their audits: Covering up to 80% of the applicants' costs, with a hard cap of 18,000 DOT.
 
 The audits were carried out by a curated pool of auditors. To facilitate this, PAL onboarded [15 auditing organizations](../auditors.md), which are among the leaders in the Web3 security space. This includes both traditional auditors and 3 platforms for crowdsourced audits.
 
