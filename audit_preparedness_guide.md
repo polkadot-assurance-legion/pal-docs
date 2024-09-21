@@ -14,8 +14,8 @@ The Pre-Audit Preparation section outlines crucial steps to take before undergoi
 - Determine which contracts, pallets, or components should be included in the audit scope.
 
 ### 2.2 Establish Structured Development Processes
-- Implement version control practices, such as Git branching strategies (e.g., GitFlow or GitHub Flow).
-- Set up code review procedures. Consider tools like GitHub Pull Requests or GitLab Merge Requests with required approvals.
+- Implement version control practices, such as using Git branching strategies.
+- Set up code review procedures.
 - Implement Continuous Integration/Continuous Deployment (CI/CD) pipelines to automate testing and deployment processes.
 
 ### 2.3 Designate Team Roles
@@ -107,7 +107,7 @@ This section focuses on the critical role of comprehensive testing and performan
 - Test pallet hooks (`on_initialize`, `on_finalize`) thoroughly, as they play crucial roles in block execution.
 
 #### Solidity-specific:
-- Use frameworks like [Hardhat](https://github.com/NomicFoundation/hardhat) or [Foundry](https://github.com/foundry-rs/foundry) for testing. Foundry is recommended for its speed and powerful testing features.
+- Use frameworks like [Foundry](https://github.com/foundry-rs/foundry) (or [Hardhat](https://github.com/NomicFoundation/hardhat)) for testing. Foundry is recommended for its speed and powerful testing features.
 - Utilize property-based testing with tools like [Halmos](https://github.com/a16z/halmos) or [Echidna](https://github.com/crytic/echidna) to find complex vulnerabilities.
 - Implement fuzz testing using tools like [Mythril](https://github.com/ConsenSys/mythril) or [Manticore](https://github.com/trailofbits/manticore) to discover edge cases and potential vulnerabilities.
 
