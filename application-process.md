@@ -6,19 +6,19 @@ Polkadot Assurance Legion (PAL) offers funding for various security-related init
 
 For projects seeking funding for Rust code audits, including Substrate pallets and ink! smart contracts. This process is primarily aimed at parachains and other coretime consumers on Polkadot.
 
-[Detailed Rust Audit Application Process](rust-audit-applications.md)
+[Rust Audit Application Process](rust-audit-applications.md)
 
 ## 2. Security Tooling Applications
 
 For projects developing security tools that benefit the Polkadot ecosystem. This includes various types of security-enhancing software and infrastructure.
 
-[Detailed Security Tooling Application Process](security-tooling-applications.md)
+[Security Tooling Application Process](security-tooling-applications.md)
 
 ## 3. Solidity Smart Contract Audit Applications
 
 For projects seeking funding for Solidity smart contract audits. This is specifically for Solidity contracts that will be deployed on Polkadot.
 
-[Detailed Solidity Audit Application Process](solidity-audit-applications.md)
+[Solidity Audit Application Process](solidity-audit-applications.md)
 
 ## General Application Guidelines
 
