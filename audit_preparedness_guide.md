@@ -258,7 +258,7 @@ This section forms the core of the security guide, detailing various security co
    - Keep inheritance simple and linear to prevent unexpected behavior from complex inheritance trees.
    - Use interface definitions for external contract interactions to ensure type safety.
 
-98. Circuit Breakers:
+8. Circuit Breakers:
    - Implement circuit breakers/pause functionality for critical functions to allow quick response to detected issues.
 
 9. Signature Replay Protection:
