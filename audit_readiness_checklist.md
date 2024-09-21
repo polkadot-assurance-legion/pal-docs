@@ -94,12 +94,11 @@
 ## 4. Security Considerations
 
 ### 4.1 Common Security Measures
-- [ ] Secure randomness generation implemented
 - [ ] Safe arithmetic operations used to prevent over/underflows
-- [ ] Reentrancy vulnerabilities addressed
 - [ ] Access control mechanisms properly implemented
 - [ ] Input validation and sanitization in place
 - [ ] Event emission for all important state changes
+- [ ] Secure randomness generation implemented
 
 ### 4.2 Substrate-Specific Security
 - [ ] Proper depth limits set for decoding to prevent unbounded recursion
@@ -109,6 +108,7 @@
 ### 4.3 Solidity-Specific Security
 - [ ] Use of `transfer()` or `send()` replaced with `call()` for ETH transfers
 - [ ] Checks-Effects-Interactions pattern followed
+- [ ] Reentrancy vulnerabilities addressed
 - [ ] Front-running possibilities analyzed and mitigated
 - [ ] Oracle usage secured (if applicable)
 

@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-This guide provides detailed preparation steps for security audits of blockchain projects built on Substrate, using Solidity, or deploying on Moonbeam. Thorough preparation enhances the audit process, leading to more valuable insights and a more secure final product. The blockchain space is rapidly evolving, and security is paramount. This guide aims to equip developers and project managers with the knowledge to create robust, secure blockchain applications.
+This guide provides detailed preparation steps for security audits of blockchain projects built on Substrate, or Solidity in the Polkadot ecosystem. Thorough preparation enhances the audit process, leading to more valuable insights and a more secure final product. The blockchain space is rapidly evolving, and security is paramount. This guide aims to equip developers and project managers with the knowledge to create robust, secure blockchain applications.
 
 ## 2. Pre-Audit Preparation
 
@@ -31,7 +31,7 @@ The Pre-Audit Preparation section outlines crucial steps to take before undergoi
 
 ## 3. Code Quality and Documentation
 
-This section focuses on the fundamental aspects of producing high-quality, secure code. It covers best practices for code cleanliness and comprehensive documentation, which are crucial for both security and maintainability.
+This section focuses on the fundamental aspects of producing high-quality, secure code. It covers best practices for code cleanliness and comprehensive documentation, which are crucial for both security and maintainability.∫
 
 ### 3.1 Code Cleanliness
 
