@@ -136,6 +136,7 @@ This section forms the core of the security guide, detailing various security co
 
 2. Safe Arithmetic:
    - Use safe arithmetic operations to prevent overflow/underflow vulnerabilities.
+   - Take care in how values round and understand how that can influence account balances.
 
 3. External Interactions:
    - Be cautious with external calls and potential reentrancy. Use the checks-effects-interactions pattern.
